@@ -1,0 +1,13 @@
+{
+  "business": "Baskien Build Team",
+  "type": "Construction & Renovation",
+  "slug": "baskien-build-team",
+  "files": [
+    "index.html",
+    "style.css",
+    "script.js",
+    "about.html",
+    "contact.html"
+  ],
+  "model": "llama-3.3-70b-versatile"
+}
